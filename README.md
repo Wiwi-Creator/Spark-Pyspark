@@ -41,10 +41,11 @@ Spark 採用In-memory運算技術，將運算資料除儲存於記憶體中，�
 **** 註2 : Pandas和Pyspark整合度高且API相似。
 ```
 ***   
-#### Model :
-
+####  Spark SQL:
 ```markdown
-
+Spark其實是支持SQL語句的執行，利用spark.sql(‘SQL語法’)即可操作。Pyspark也有以更簡潔的語法來取代純SQL語句。如下整理
+  
+  [Spark SQL]
    
 ```
 ***
