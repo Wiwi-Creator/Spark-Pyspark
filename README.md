@@ -24,15 +24,15 @@ Spark 採用In-memory運算技術，將運算資料除儲存於記憶體中，�
 3.範圍廣:
   可以在Spark做到SQL(Spark SQL)、Spark Streaming(及時串流)、Mlip(Spark的機器學習套件)、GraohX(For 社群網路)
   
-**** 註 : 雖可支援多種語言，但實際轉寫程式時，都需使用Sprak的邏輯運作(大量的functional programming的Map Reduce概念)
-          需花時間去習慣。
+**** 註:雖可支援多種語言，但實際轉寫程式時，都使用Sprak的邏輯運作(大量的functional programming的Map Reduce概念)
+        需花時間去習慣。
 
 ```
 
 #### PYSPARK Introduction :
 ```markdown
 ●Apache Spark : 是一個對開發者提供完備的庫和API的集群計算系統，是現今處理巨量資料及機器學習(ML)主流運算框架
-                主打簡單、快速，介面統一，支援多種語言。SparkSQL相當於其中的模塊，在DataFrame API的幫助下可處理非結構化數據。
+                主打簡單、快速，介面統一，支援多種語言。在DataFrame API的幫助下可處理非結構化數據。
 
 
 ●Pyspark : 則是以Python開發的Apache Spark介面，我們則可透過Python開發相關應用
@@ -45,7 +45,7 @@ Spark 採用In-memory運算技術，將運算資料除儲存於記憶體中，�
 ```markdown
 Spark其實是支持SQL語句的執行，利用spark.sql(‘SQL語法’)即可操作。Pyspark也有以更簡潔的語法來取代純SQL語句。如下整理
   
-  [SparkSQL]()
+  [SparkSQL](https://github.com/Wiwi-Creator/Spark-Pyspark/blob/main/PysparkSQL.ipynb)
    
 ```
 ***
