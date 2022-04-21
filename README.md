@@ -37,7 +37,8 @@ Spark 採用In-memory運算技術，將運算資料除儲存於記憶體中，�
 
 ●Pyspark : 則是以Python開發的Apache Spark介面，我們則可透過Python開發相關應用
 
-**** 註 : Pandas和Pyspark整合度高且API相似。
+**** 註1 : 一般家用主機比較少整個Spark的群集，故需要再windows建置一台虛擬機(VM)執行。
+**** 註2 : Pandas和Pyspark整合度高且API相似。
 ```
 ***   
 #### Model :
