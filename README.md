@@ -33,7 +33,7 @@ Spark 採用In-memory運算技術，將運算資料除儲存於記憶體中，�
 ```markdown
 ●Apache Spark : 是一個對開發者提供完備的庫和API的集群計算系統，是現今處理巨量資料(Larget-scale Data)及機器學習(ML)主流運算框架
                 主打簡單、快速，介面統一，支援多種語言。SparkSQL相當於其中的模塊，在DataFrame API的幫助下可用來處理非結構化數據。
-如何透過Anaconda創建pyaprk框架及後續處理應用，可參考[Pyspark創建](https://kknews.cc/zh-tw/code/3qk4o4a.html) 
+
 
 ●Pyspark : 則是以Python開發的Apache Spark介面，我們則可透過Python開發相關應用
 
